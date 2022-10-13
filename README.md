@@ -8,6 +8,16 @@
 [docker::hub]: https://hub.docker.com/r/mailserver/docker-mailserver/
 [documentation::badge]: https://img.shields.io/badge/DOCUMENTATION-GH%20PAGES-0078D4?style=for-the-badge&logo=git&logoColor=white
 [documentation::web]: https://docker-mailserver.github.io/docker-mailserver/edge/
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/bemail" data-color-scheme="no-preference: light; light: light; dark: light_high_contrast;" data-size="large" aria-label="Follow @bemail on GitHub">Follow @bemail</a>
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/bemail/awdev/fork" data-color-scheme="no-preference: light; light: light; dark: light_high_contrast;" data-size="large" aria-label="Fork bemail/awdev on GitHub">Fork</a>
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/bemail/docker/generate" data-color-scheme="no-preference: light; light: light; dark: dark;" data-size="large" aria-label="Use this template bemail/docker on GitHub">Use this template</a>
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/bemail/docker/archive/HEAD.zip" data-color-scheme="no-preference: light; light: light; dark: dark;" data-size="large" aria-label="Download bemail/docker on GitHub">Download</a>
 
 A production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.). Only configuration files, no SQL database. Keep it simple and versioned. Easy to [deploy](#usage) and upgrade. [Documentation][documentation::web] via MkDocs.
 
